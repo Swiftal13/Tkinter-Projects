@@ -10,3 +10,7 @@ root.title("First window")
 
 root.mainloop()
 ```
+
+a button
+```py
+
